@@ -398,10 +398,10 @@ http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/547
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="https://www.escoteirossp.org.br/wp/wp-content/uploads/2014/07/LogoTVGazeta.png" group-title="TV ABERTA", TV GAZETA 4K
 http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/551
 
-#EXTINF:-1 tvg-id="Vangsaojc.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-vanguarda-hd_m.png" group-title="TV ABERTA", TV VANGUARDA S. J. DOS CAMPOS HD
+#EXTINF:-1 tvg-id="TV.Vanguarda.HD.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-vanguarda-hd_m.png" group-title="TV ABERTA", TV VANGUARDA S. J. DOS CAMPOS HD
 http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/565
 
-#EXTINF:-1 tvg-id="Vangsaojc.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-vanguarda-hd_m.png" group-title="TV ABERTA", TV VANGUARDA S. J. DOS CAMPOS  (ALTERNATIVO)
+#EXTINF:-1 tvg-id="TV.Vanguarda.HD.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-vanguarda-hd_m.png" group-title="TV ABERTA", TV VANGUARDA S. J. DOS CAMPOS  (ALTERNATIVO)
 http://voz.one:80/juniorfont3/rLgxfzzgLARZ/112124
 
 #EXTINF:-1 tvg-id="universal.br" tvg-logo="https://iili.io/JM5cDBt.png" group-title="VARIEDADES", UNIVERSAL CHANNEL 4K
