@@ -1,0 +1,429 @@
+
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-logo="https://iili.io/JM5chdb.png" group-title="VARIEDADES", A&E
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/225
+
+#EXTINF:-1 tvg-id="amc.br" tvg-logo="https://iili.io/JM5cMB9.png" group-title="VARIEDADES", AMC 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/228
+
+#EXTINF:-1 tvg-id="amc.br" tvg-logo="https://iili.io/JM5cMB9.png" group-title="VARIEDADES", AMC HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/229
+
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-logo="https://iili.io/JGt1abR.png" group-title="VARIEDADES", ANIMAL PLANET HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/994
+
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-logo="https://iili.io/JGt1abR.png" group-title="VARIEDADES", 
+
+ANIMAL PLANET 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/61
+
+#EXTINF:-1 tvg-id="axn.br" tvg-logo="https://iili.io/JM5cV1e.png" group-title="VARIEDADES", AXN 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/233
+
+#EXTINF:-1 tvg-id="axn.br" tvg-logo="https://iili.io/JM5cV1e.png" group-title="VARIEDADES", AXN HD
+https://cdn-3.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8#EXTINF:-1
+
+#EXTINF:-1 tvg-id="bandnews.br" tvg-logo="https://iili.io/JV2IK8v.png" group-title="TV ABERTA", BAND NEWS 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/482
+
+#EXTINF:-1 tvg-id="bandnews.br" tvg-logo="https://iili.io/JV2IK8v.png" group-title="TV ABERTA", BAND NEWS HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/432
+
+#EXTINF:-1 tvg-id="band.br" tvg-logo="https://iili.io/JGZMojR.png" group-title="TV ABERTA", BAND SP 4k
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/484
+
+#EXTINF:-1 tvg-id="band.br" tvg-logo="https://iili.io/JGZMojR.png" group-title="TV ABERTA", BAND SP HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/485
+
+#EXTINF:-1 tvg-id="bandsports.br" tvg-logo="https://iili.io/JM59Gvp.png" group-title="CANAIS DE ESPORTES", BAND SPORTS 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/120
+
+#EXTINF:-1 tvg-id="bandsports.br" tvg-logo="https://iili.io/JM59Gvp.png" group-title="CANAIS DE ESPORTES", BAND SPORTS HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/121
+
+#EXTINF:-1 tvg-id="Bishd.br" tvg-logo="https://iili.io/Jm0JTmB.png" group-title="VARIEDADES", BIS 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/419
+
+#EXTINF:-1 tvg-id="Bishd.br" tvg-logo="https://iili.io/Jm0JTmB.png" group-title="VARIEDADES", BIS HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/420
+
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="https://iili.io/JVHdlM7.png" group-title="CANAIS INFANTIS", CARTOON NETWORK HD+
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/1002
+
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="https://iili.io/JVHdlM7.png" group-title="CANAIS INFANTIS", CARTOON NETWORK 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/346
+
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="https://iili.io/JM5cwkx.png" group-title="CANAIS DE FILMES", CINEMAX 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/239
+
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="https://iili.io/JM5cwkx.png" group-title="CANAIS DE FILMES", CINEMAX HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/240
+
+#EXTINF:-1 tvg-id="cnn.br" tvg-logo="https://iili.io/JV2IFcJ.png" group-title="TV ABERTA", CNN BRASIL HDR+
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/1018
+
+#EXTINF:-1 tvg-id="cnn.br" tvg-logo="https://iili.io/JV2IFcJ.png" group-title="TV ABERTA", CNN BRASIL 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/433
+
+#EXTINF:-1 tvg-id="combate.br" tvg-logo="https://iili.io/JM59EaR.png" group-title="VARIEDADES", COMBATE HD+
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/1001
+
+#EXTINF:-1 tvg-id="combate.br" tvg-logo="https://iili.io/JM59EaR.png" group-title="VARIEDADES", COMBATE 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/122
+
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-logo="https://iili.io/dHVZuFp.png" group-title="VARIEDADES", COMEDY CENTRAL 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/99
+
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-logo="https://iili.io/dHVZuFp.png" group-title="VARIEDADES", COMEDY CENTRAL HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/98
+
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-logo="https://iili.io/JGt11sI.png" group-title="VARIEDADES", DISCOVERY CHANNEL 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/65
+
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-logo="https://iili.io/JGt11sI.png" group-title="VARIEDADES", DISCOVERY CHANNEL FHD
+http://voz.one:80/juniorfont3/rLgxfzzgLARZ/4
+
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-logo="https://iili.io/JGt11sI.png" group-title="VARIEDADES", DISCOVERY CHANNEL HD
+http://voz.one:80/juniorfont3/rLgxfzzgLARZ/5
+
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-logo="https://iili.io/JGt1XJs.png" group-title="VARIEDADES", DISCOVERY H&H HD+
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/1021
+
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-logo="https://iili.io/JGt1XJs.png" group-title="VARIEDADES", DISCOVERY H&H 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/67
+
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-logo="https://iili.io/JGt1XJs.png" group-title="VARIEDADES", DISCOVERY H&H HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/68
+
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-logo="https://iili.io/JGt1h5G.png" group-title="VARIEDADES", DISCOVERY ID 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/69
+
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-logo="https://iili.io/JGt1h5G.png" group-title="VARIEDADES", DISCOVERY ID HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/70
+
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-logo="https://iili.io/JVHdEFe.png" group-title="VARIEDADES", DISCOVERY KIDS 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/348
+
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-logo="https://iili.io/JVHdEFe.png" group-title="VARIEDADES", DISCOVERY KIDS HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/349
+
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-logo="https://iili.io/JGt1wb4.png" group-title="VARIEDADES", DISCOVERY SCIENCE 4k
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/71
+
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-logo="https://iili.io/JGt1wb4.png" group-title="VARIEDADES", DISCOVERY SCIENCE HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/72
+
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-logo="https://iili.io/JGt1Ozl.png" group-title="VARIEDADES", DISCOVERY THEATER 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/73
+
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-logo="https://iili.io/JGt1Ozl.png" group-title="VARIEDADES", DISCOVERY THEATER HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/74
+
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-logo="https://iili.io/JGt1ksS.png" group-title="VARIEDADES", DISCOVERY TURBO HDR+
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/1022
+
+#EXTINF:-1 tvg-id="iscoveryturbo.br" tvg-logo="https://iili.io/JGt1ksS.png" group-title="VARIEDADES", DISCOVERY TURBO 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/75
+
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-logo="https://iili.io/JGt18q7.png" group-title="VARIEDADES", DISCOVERY WORLD 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/77
+
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-logo="https://iili.io/JGt18q7.png" group-title="VARIEDADES", DISCOVERY WORLD HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/78
+
+#EXTINF:-1 tvg-id="disney.br" tvg-logo="https://iili.io/JVHdM8b.png'" group-title="CANAIS INFANTIS", DISNEY CHANNEL 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/351
+
+#EXTINF:-1 tvg-id="disney.br" tvg-logo="https://iili.io/JVHdM8b.png'" group-title="CANAIS INFANTIS", DISNEY CHANNEL HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/352
+
+#EXTINF:-1 tvg-id="fishtv.br" tvg-logo="https://iili.io/JGt10WN.png" group-title="VARIEDADES", FISH TV 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/79
+
+#EXTINF:-1 tvg-id="fishtv.br" tvg-logo="https://iili.io/JGt10WN.png'" group-title="VARIEDADES", FISH TV HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/80
+
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-logo="https://iili.io/dHVZ79t.png" group-title="VARIEDADES", FOOD NETWORK 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/104
+
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-logo="https://iili.io/dHVZ79t.png" group-title="VARIEDADES", FOOD NETWORK HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/105
+
+#EXTINF:-1 tvg-id="fx.br" tvg-logo="https://iili.io/JM5ceIV.png" group-title="CANAIS DE FILMES", FX FHD
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/442
+
+#EXTINF:-1 tvg-id="fx.br" tvg-logo="https://iili.io/JM5ceIV.png" group-title="CANAIS DE FILMES", FX HD
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/443
+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-logo="https://iili.io/JM7UeP1.png" group-title="TV ABERTA", GLOBO SP HD
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/45859
+
+#EXTINF:-1 tvg-id="globonews.br" tvg-logo="https://iili.io/JV2IBup.png" group-title="TV ABERTA", GLOBO NEWS 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/498
+
+#EXTINF:-1 tvg-id="globonews.br" tvg-logo="https://iili.io/JV2IBup.png" group-title="TV ABERTA", GLOBO NEWS HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/445
+
+#EXTINF:-1 tvg-id="+globosat.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqJ5CB5INXK7TawsYR2gq-6x9fgw1C0J2oTn0WTQfkiJuUhSQaE9qISc9&s=10" group-title="VARIEDADES", +GLOBOSAT UHD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/106
+
+#EXTINF:-1 tvg-id="Hbo.br" tvg-logo="https://iili.io/JV9fOlt.png" group-title="CANAIS DE FILMES", HBO HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/255
+
+#EXTINF:-1 tvg-id="Hbo.br" tvg-logo="https://iili.io/JV9fOlt.png" group-title="CANAIS DE FILMES", HBO 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/251
+
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-logo="https://iili.io/JV9fhVp.png" group-title="CANAIS DE FILMES", HBO 2 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/247
+
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-logo="https://iili.io/JV9fhVp.png" group-title="CANAIS DE FILMES", HBO 2 HD"
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/248
+
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="https://iili.io/JV9fMOJ.png" group-title="CANAIS DE FILMES", HBO+ FHD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/1000
+
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="https://iili.io/JV9fMOJ.png" group-title="CANAIS DE FILMES", HBO + 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/246
+
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="https://iili.io/JV9fMOJ.png" group-title="CANAIS DE FILMES", HBO + HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/245
+
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-logo="https://iili.io/JV9fVDv.png" group-title="CANAIS DE FILMES", HBO FAMILY 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/252
+
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-logo="https://iili.io/JV9fVDv.png" group-title="CANAIS DE FILMES", HBO FAMILY HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/253
+
+#EXTINF:-1 tvg-id="Hbomundi.br" tvg-logo="https://iili.io/JV9fXxR.png" group-title="CANAIS DE FILMES", HBO MUNDI 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/256
+
+#EXTINF:-1 tvg-id="Hbomundi.br" tvg-logo="https://iili.io/JV9fXxR.png" group-title="CANAIS DE FILMES", HBO MUNDI HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/257
+
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="https://iili.io/JV9fMOJ.png" group-title="CANAIS DE FILMES", HBO PLUS 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/258
+
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="https://iili.io/JV9fMOJ.png" group-title="CANAIS DE FILMES", HBO PLUS HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/259
+
+#EXTINF:-1 tvg-id="Hbopop.br" tvg-logo="https://iili.io/JV9fjiN.png" group-title="CANAIS DE FILMES", HBO POP 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/260
+
+#EXTINF:-1 tvg-id="Hbopop.br" tvg-logo="https://iili.io/JV9fjiN.png" group-title="CANAIS DE FILMES", HBO POP HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/261
+
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-logo="https://iili.io/JV9fNfI.png" group-title="CANAIS DE FILMES", HBO SIGNATURE 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/264
+
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-logo="https://iili.io/JV9fNfI.png" group-title="CANAIS DE FILMES", HBO SIGNATURE HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/262
+
+#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-logo="https://iili.io/JV9feUX.png" group-title="CANAIS DE FILMES", HBO XTREME 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/266
+
+#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-logo="https://iili.io/JV9feUX.png" group-title="CANAIS DE FILMES", HBO XTREME HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/267
+
+#EXTINF:-1 tvg-id="H2.br" tvg-logo="https://iili.io/JGt1Gft.png" group-title="VARIEDADES", H2 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/815
+
+#EXTINF:-1 tvg-id="H2.br" tvg-logo="https://iili.io/JGt1Gft.png" group-title="VARIEDADES", H2 HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyhttps://iili.io/JGt1Gft.pngaMQtC/Ot5i7KzFFQ/81
+
+#EXTINF:-1 tvg-id="historychannel.br" tvg-logo="https://iili.io/JGt1Vgn.png" group-title="VARIEDADES", HISTORY CHANNEL 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/83
+
+#EXTINF:-1 tvg-id="historychannel.br" tvg-logo="https://iili.io/JGt1Vgn.png" group-title="VARIEDADES", HISTORY CHANNEL HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/82
+
+#EXTINF:-1 tvg-id="jovenpannews.br" tvg-logo="https://iili.io/JV2ICwN.png" group-title="TV ABERTA", JOVEM PAN NEWS 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/847
+
+#EXTINF:-1 tvg-id="jovenpannews.br" tvg-logo="https://iili.io/JV2ICwN.png" group-title="TV ABERTA", JOVEM PAN NEWS HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/846
+
+#EXTINF:-1 tvg-id="megapix.br" tvg-logo="https://iili.io/JM5cvLP.png" group-title="CANAIS DE FILMES", MEGAPIX HD+
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/998
+
+#EXTINF:-1 tvg-id="megapix.br" tvg-logo="https://iili.io/JM5cvLP.png" group-title="CANAIS DE FILMES", MEGAPIX 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/270
+
+#EXTINF:-1 tvg-id="megapix.br" tvg-logo="https://iili.io/JM5cvLP.png" group-title="CANAIS DE FILMES", MEGAPIX HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/271
+
+#EXTINF:-1 tvg-id="Mtv.br" tvg-logo="https://iili.io/JmlmSaV.png" group-title="VARIEDADES", MTV 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/112
+
+#EXTINF:-1 tvg-id="Mtv.br" tvg-logo="https://iili.io/JmlmSaV.png" group-title="VARIEDADES", MTV HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/422
+
+#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="https://iili.io/dHVZcts.png" group-title="VARIEDADES", MULTISHOW  HD
+http://voz.one:80/juniorfont3/rLgxfzzgLARZ/775
+
+#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="https://iili.io/dHVZcts.png" group-title="VARIEDADES", MULTISHOW FHD
+http://voz.one:80/juniorfont3/rLgxfzzgLARZ/774
+
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-logo="https://iili.io/JGt1jef.png" group-title="VARIEDADES", NATIONAL GEOGRAPHIC 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/87
+
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-logo="https://iili.io/JGt1jef.png" group-title="VARIEDADES", NATIONAL GEOGRAPHIC HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/88
+
+#EXTINF:-1 tvg-id="Paramount.br" tvg-logo="https://iili.io/JM5cSB1.png" group-title="CANAIS DE FILMES", PARAMOUNT CHANNEL FHD
+http://voz.one:80/juniorfont3/rLgxfzzgLARZ/13910
+
+#EXTINF:-1 tvg-id="Paramount.br" tvg-logo="https://iili.io/JM5cSB1.png" group-title="CANAIS DE FILMES", PARAMOUNT CHANNEL HD+
+http://voz.one:80/juniorfont3/rLgxfzzgLARZ/451
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="https://iili.io/dzY5j1V.png" group-title="TV ABERTA", RECORD SP HD+
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/999
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="https://iili.io/dzY5j1V.png" group-title="TV ABERTA", RECORD SP HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/523
+
+#EXTINF:-1 tvg-id="recordnews.br" tvg-logo="https://iili.io/JV2IntI.png" group-title="TV ABERTA", RECORD NEWS HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/452
+
+#EXTINF:-1 tvg-id="recordnews.br" tvg-logo="https://iili.io/JV2IntI.png" group-title="TV ABERTA", RECORD NEWS 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/451
+
+#EXTINF:-1 tvg-id="Redetv.br" tvg-logo="https://iili.io/JjCXBqX.png" group-title="TV ABERTA", REDE TV HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/532
+
+#EXTINF:-1 tvg-id="sbt.br" tvg-logo="https://iili.io/Jm1qBzx.png" group-title="TV ABERTA", SBT 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/534
+
+#EXTINF:-1 tvg-id="sbt.br" tvg-logo="https://iili.io/Jm1qBzx.png" group-title="TV ABERTA", SBT HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/540
+
+#EXTINF:-1 tvg-id="sony.br" tvg-logo="https://iili.io/JM5cUEF.png" group-title="CANAIS DE FILMES", SONY CHANNEL HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/238
+
+#EXTINF:-1 tvg-id="starchannel.br" tvg-logo="https://iili.io/JM5c42a.png" group-title="CANAIS DE FILMES", STAR CHANNEL HD+
+http://voz.one:80/juniorfont3/rLgxfzzgLARZ/431
+
+#EXTINF:-1 tvg-id="starchannel.br" tvg-logo="https://iili.io/JM5c42a.png" group-title="CANAIS DE FILMES", STAR CHANNEL HD
+http://voz.one:80/juniorfont3/rLgxfzzgLARZ/441
+
+#EXTINF:-1 tvg-id="space.br" tvg-logo="https://iili.io/JM5cgrg.png" group-title="CANAIS DE FILMES", SPACE HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/833
+
+#EXTINF:-1 tvg-id="space.br" tvg-logo="https://iili.io/JM5cgrg.png" group-title="CANAIS DE FILMES", SPACE 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/278
+
+#EXTINF:-1 tvg-id="sportv.br" tvg-logo="https://iili.io/JjCvMsR.png" group-title="CANAIS DE ESPORTES", SPORTV 1 HD+
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/993
+
+#EXTINF:-1 tvg-id="sportv.br" tvg-logo="https://iili.io/JjCvMsR.png" group-title="CANAIS DE ESPORTES", SPORTV 1 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/183
+
+#EXTINF:-1 tvg-id="sportv2.br" tvg-logo="https://iili.io/JjCvEzJ.png" group-title="CANAIS DE ESPORTES", SPORTV 2 HD+
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/1016
+
+#EXTINF:-1 tvg-id="sportv2.br" tvg-logo="https://iili.io/JjCvEzJ.png" group-title="CANAIS DE ESPORTES", SPORTV 2 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/172
+
+#EXTINF:-1 tvg-id="sportv3.br" tvg-logo="https://iili.io/JjCvWfp.png" group-title="CANAIS DE ESPORTES", SPORTV 3  4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/175
+
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="https://iili.io/Jm1BrFI.png" group-title="CANAIS DE FILMES", TELECINE ACTION HD+
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/1019
+
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="https://iili.io/Jm1BrFI.png" group-title="CANAIS DE FILMES", TELECINE ACTION 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/294
+
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="https://iili.io/Jm1BrFI.png" group-title="CANAIS DE FILMES", TELECINE ACTION HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/295
+
+#EXTINF:-1 tvg-id="Tccult.br" tvg-logo="https://iili.io/Jm1B8nR.png" group-title="CANAIS DE FILMES", TELECINE CULT 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/297
+
+#EXTINF:-1 tvg-id="Tccult.br" tvg-logo="https://iili.io/Jm1B8nR.png" group-title="CANAIS DE FILMES", TELECINE CULT HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/298
+
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="https://iili.io/Jm1BSGp.png" group-title="CANAIS DE FILMES", TELECINE FUN 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/300
+
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="https://iili.io/Jm1BSGp.png" group-title="CANAIS DE FILMES", TELECINE FUN HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/301
+
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="https://iili.io/Jm1BU6N.png" group-title="CANAIS DE FILMES", TELECINE PIPOCA HD+
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/996#EXTINF:-1,TELECINE
+
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="https://iili.io/Jm1BU6N.png" group-title="CANAIS DE FILMES", TELECINE PIPOCA 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/303
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="https://iili.io/Jm1B4at.png" group-title="CANAIS DE FILMES", TELECINE PREMIUM HD+
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/997
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="https://iili.io/Jm1B4at.png" group-title="CANAIS DE FILMES", TELECINE PREMIUM 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/306
+
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="https://iili.io/Jm1B68X.png" group-title="CANAIS DE FILMES", TELECINE TOUCH 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/309
+
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="https://iili.io/Jm1B68X.png" group-title="CANAIS DE FILMES", TELECINE TOUCH HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/310
+
+#EXTINF:-1 tvg-id="tlc.br" tvg-logo="https://iili.io/JGt1eX2.png" group-title="VARIEDADES", TLC 4K
+http://canal.cdntv.com.br:80/amanda123/amanda123/513
+
+#EXTINF:-1 tvg-id="tlc.br" tvg-logo="https://iili.io/JGt1eX2.png" group-title="VARIEDADES", TLC HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/92
+
+#EXTINF:-1 tvg-id="tnt.br" tvg-logo="https://iili.io/JM5cQhN.png" group-title="CANAIS DE FILMES", TNT HD+
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/1004
+
+#EXTINF:-1 tvg-id="tnt.br" tvg-logo="https://iili.io/JM5cQhN.png" group-title="CANAIS DE FILMES", TNT 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/312
+
+#EXTINF:-1 tvg-id="tnt.br" tvg-logo="https://iili.io/JM5cQhN.png" group-title="CANAIS DE FILMES", TNT HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/313
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JM5cipR.png" group-title="VARIEDADES", TNT NOVELA 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/1167
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JM5cipR.png" group-title="VARIEDADES", TNT NOVELAS HD
+http://voz.one:80/juniorfont3/rLgxfzzgLARZ/466
+
+#EXTINF:-1 tvg-id="TNTseries.br" tvg-logo="https://iili.io/JM5cLIp.png" group-title="VARIEDADES", TNT SERIES 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/314
+
+#EXTINF:-1 tvg-id="TNTseries.br" tvg-logo="https://iili.io/JM5cLIp.png" group-title="VARIEDADES", TNT SERIES HD
+http://voz.one:80/juniorfont3/rLgxfzzgLARZ/473
+
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="https://iili.io/JjCXfst.png" group-title="TV ABERTA", TV CULTURA UHD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/547
+
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="https://www.escoteirossp.org.br/wp/wp-content/uploads/2014/07/LogoTVGazeta.png" group-title="TV ABERTA", TV GAZETA 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/551
+
+#EXTINF:-1 tvg-id="Vangsaojc.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-vanguarda-hd_m.png" group-title="TV ABERTA", TV VANGUARDA S. J. DOS CAMPOS HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/565
+
+#EXTINF:-1 tvg-id="Vangsaojc.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-vanguarda-hd_m.png" group-title="TV ABERTA", TV VANGUARDA S. J. DOS CAMPOS  (ALTERNATIVO)
+http://voz.one:80/juniorfont3/rLgxfzzgLARZ/112124
+
+#EXTINF:-1 tvg-id="universal.br" tvg-logo="https://iili.io/JM5cDBt.png" group-title="VARIEDADES", UNIVERSAL CHANNEL 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/289#EXTINF:-1
+
+#EXTINF:-1 tvg-id="universal.br" tvg-logo="https://iili.io/JM5cDBt.png" group-title="VARIEDADES", UNIVERSAL CHANNEL HD+
+http://voz.one:80/juniorfont3/rLgxfzzgLARZ/89355
+
+#EXTINF:-1 tvg-id="universal.br" tvg-logo="https://iili.io/JM5cDBt.png" group-title="VARIEDADES", UNIVERSAL CHANNEL HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/319
+
+#EXTINF:-1 tvg-id="Viva.br" tvg-logo="https://iili.io/dHVZMKl.png" group-title="VARIEDADES", VIVA 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/114
+
+#EXTINF:-1 tvg-id="Viva.br" tvg-logo="https://iili.io/dHVZMKl.png" group-title="VARIEDADES", VIVA HD
+http://voz.one:80/juniorfont3/rLgxfzzgLARZ/786
+
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-logo="https://iili.io/JM5cm4n.png" group-title="CANAIS DE FILMES", WARNER CHANNEL HD+
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/479
+
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-logo="https://iili.io/JM5cm4n.png" group-title="CANAIS DE FILMES", WARNER CHANNEL 4K
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/783
+
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-logo="https://iili.io/JM5cm4n.png" group-title="CANAIS DE FILMES", WARNER CHANNEL HD
+http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/320
