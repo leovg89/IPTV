@@ -83,7 +83,7 @@ http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/65
 #EXTINF:-1 tvg-id="discoverchannel.br" tvg-logo="https://iili.io/JGt11sI.png" group-title="VARIEDADES", DISCOVERY CHANNEL FHD
 http://voz.one:80/juniorfont3/rLgxfzzgLARZ/4
 
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-logo="https://iili.io/JGt11sI.png" group-title="VARIEDADES", DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="Discovery.HD.br" tvg-logo="https://iili.io/JGt11sI.png" group-title="VARIEDADES", Discovery HD
 http://voz.one:80/juniorfont3/rLgxfzzgLARZ/5
 
 #EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-logo="https://iili.io/JGt1XJs.png" group-title="VARIEDADES", DISCOVERY H&H HD+
@@ -224,10 +224,10 @@ http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/266
 #EXTINF:-1 tvg-id="Hboxtreme.br" tvg-logo="https://iili.io/JV9feUX.png" group-title="CANAIS DE FILMES", HBO XTREME HD
 http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/267
 
-#EXTINF:-1 tvg-id="H2.br" tvg-logo="https://iili.io/JGt1Gft.png" group-title="VARIEDADES", H2 4K
+#EXTINF:-1 tvg-id="History.2.br" tvg-logo="https://iili.io/JGt1Gft.png" group-title="VARIEDADES", History 2
 http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/815
 
-#EXTINF:-1 tvg-id="H2.br" tvg-logo="https://iili.io/JGt1Gft.png" group-title="VARIEDADES", H2 HD
+#EXTINF:-1 tvg-id="History.2.br" tvg-logo="https://iili.io/JGt1Gft.png" group-title="VARIEDADES", History 2
 http://authxplus-2.xyz:2082/Tourobox1-ePaEyhttps://iili.io/JGt1Gft.pngaMQtC/Ot5i7KzFFQ/81
 
 #EXTINF:-1 tvg-id="historychannel.br" tvg-logo="https://iili.io/JGt1Vgn.png" group-title="VARIEDADES", HISTORY CHANNEL 4K
@@ -419,7 +419,7 @@ http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/114
 #EXTINF:-1 tvg-id="Viva.br" tvg-logo="https://iili.io/dHVZMKl.png" group-title="VARIEDADES", VIVA HD
 http://voz.one:80/juniorfont3/rLgxfzzgLARZ/786
 
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-logo="https://iili.io/JM5cm4n.png" group-title="CANAIS DE FILMES", WARNER CHANNEL HD+
+#EXTINF:-1 tvg-id="Warner.HD.br" tvg-logo="https://iili.io/JM5cm4n.png" group-title="CANAIS DE FILMES", Warner HD
 http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/479
 
 #EXTINF:-1 tvg-id="warnerchannel.br" tvg-logo="https://iili.io/JM5cm4n.png" group-title="CANAIS DE FILMES", WARNER CHANNEL 4K
