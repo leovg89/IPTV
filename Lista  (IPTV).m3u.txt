@@ -1,5 +1,3 @@
-
-
 #EXTINF:-1 tvg-id="A.and.E.HD.br" tvg-logo="https://iili.io/JM5chdb.png" group-title="VARIEDADES", A&E 4k 
 http://voz.one:80/juniorfont3/rLgxfzzgLARZ/418
 #EXTINF:-1 tvg-id="A.and.E.HD.br" tvg-logo="https://iili.io/JM5chdb.png" group-title="VARIEDADES", A&E HD
@@ -96,7 +94,8 @@ http://voz.one:80/juniorfont3/rLgxfzzgLARZ/594
 http://voz.one:80/juniorfont3/rLgxfzzgLARZ/595
 #EXTINF:-1 tvg-id="HBO.Plus.HD.br" tvg-logo="https://iili.io/JV9fMOJ.png" group-title="CANAIS DE FILMES", HBO+ FHD 
 http://voz.one:80/juniorfont3/rLgxfzzgLARZ/606
-#EXTINF:-1 tvg-id="HBO.Plus.HD.br" tvg-logo="https://iili.io/JV9fMOJ.png" group-title="CANAIS DE FILMES", HBO + 4K 
+#EXTINF:-1 tvg-id="HBO.Plus.HD.br" tvg-logo="https://iili.io/JV9fMOJ.png" group-title="CANAIS DE FILMES", HBO + 4K
+ 
 http://voz.one:80/juniorfont3/rLgxfzzgLARZ/605
 #EXTINF:-1 tvg-id="HBO.Signature.HD.br" tvg-logo="https://iili.io/JV9fNfI.png" group-title="CANAIS DE FILMES", HBO SIGNATURE 4K 
 http://voz.one:80/juniorfont3/rLgxfzzgLARZ/612
@@ -214,4 +213,5 @@ http://voz.one:80/juniorfont3/rLgxfzzgLARZ/786
  http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/8825
 #EXTINF:-1 tvg-id="Warner.HD.br" tvg-logo="https://iili.io/JM5cm4n.png" group-title="CANAIS DE FILMES",WARNER CHANNEL
  http://voz.one:80/juniorfont3/rLgxfzzgLARZ/480
+
 
