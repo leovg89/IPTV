@@ -1,217 +1,228 @@
 #EXTINF:-1 tvg-id="A.and.E.HD.br" tvg-logo="https://iili.io/JM5chdb.png" group-title="VARIEDADES", A&E 4k 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/418
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/62889.m3u8
 #EXTINF:-1 tvg-id="A.and.E.HD.br" tvg-logo="https://iili.io/JM5chdb.png" group-title="VARIEDADES", A&E HD
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/419
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/40263.m3u8
 #EXTINF:-1 tvg-id="AMC.br" tvg-logo="https://iili.io/JM5cMB9.png" group-title="VARIEDADES", AMC 4K 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/421
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/62888.m3u8
 #EXTINF:-1 tvg-id="AMC.br" tvg-logo="https://iili.io/JM5cMB9.png" group-title="VARIEDADES", AMC HD 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/422
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/221401.m3u8
 #EXTINF:-1 tvg-id="animal.planet.br" tvg-logo="https://iili.io/JGt1abR.png" group-title="VARIEDADES", ANIMAL PLANET HD 
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/8890
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/62794.m3u8
 #EXTINF:-1 tvg-id="animal.planet.br" tvg-logo="https://iili.io/JGt1abR.png" group-title="VARIEDADES", ANIMAL PLANET 4K 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/1
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/38392.m3u8
 #EXTINF:-1 tvg-id="AXN.HD.br" tvg-logo="https://iili.io/JM5cV1e.png" group-title="VARIEDADES", AXN 4K 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/424
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/74799.m3u8
 #EXTINF:-1 tvg-id="AXN.HD.br" tvg-logo="https://iili.io/JM5cV1e.png" group-title="VARIEDADES", AXN HD 
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/8852
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/62796.m3u8
 #EXTINF:-1 tvg-id="Band.News.HD.br" tvg-logo="https://iili.io/JV2IK8v.png" group-title="TV ABERTA", BAND NEWS 4K 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/682
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/62797.m3u8
 #EXTINF:-1 tvg-id="Band.News.HD.br" tvg-logo="https://iili.io/JV2IK8v.png" group-title="TV ABERTA", BAND NEWS HD 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/683
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/38391.m3u8
 #EXTINF:-1 tvg-id="Band.HD.br" tvg-logo="https://iili.io/JGZMojR.png" group-title="TV ABERTA", BAND SP 4k 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/65271
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/62887.m3u8
 #EXTINF:-1 tvg-id="Band.HD.br" tvg-logo="https://iili.io/JGZMojR.png" group-title="TV ABERTA", BAND SP HD 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/250
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/38429.m3u8
 #EXTINF:-1 tvg-id="BIS.HD.br" tvg-logo="https://iili.io/Jm0JTmB.png" group-title="VARIEDADES", BIS 4K 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/755
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/62799.m3u8
 #EXTINF:-1 tvg-id="BIS.HD.br" tvg-logo="https://iili.io/Jm0JTmB.png" group-title="VARIEDADES", BIS HD 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/754
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/50660.m3u8
 #EXTINF:-1 tvg-id="Cartoon.HD.br" tvg-logo="https://iili.io/JVHdlM7.png" group-title="CANAIS INFANTIS", CARTOON NETWORK HD+ 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/625
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/50534.m3u8
 #EXTINF:-1 tvg-id="Cartoon.HD.br" tvg-logo="https://iili.io/JVHdlM7.png" group-title="CANAIS INFANTIS", CARTOON NETWORK 4K 
-http://wanicelife.com:8880/kg48m3n08252/xcsdfawq122/65675
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/41471.m3u8
 #EXTINF:-1 tvg-id="Cinemax.HD.br" tvg-logo="https://iili.io/JM5cwkx.png" group-title="CANAIS DE FILMES", CINEMAX 4K 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/428
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/50535.m3u8
 #EXTINF:-1 tvg-id="Cinemax.HD.br" tvg-logo="https://iili.io/JM5cwkx.png" group-title="CANAIS DE FILMES", CINEMAX HD 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/427
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/40261.m3u8
 #EXTINF:-1 tvg-id="CNN.Brasil.HD.br" tvg-logo="https://iili.io/JV2IFcJ.png" group-title="TV ABERTA", CNN BRASIL HDR+ 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/684
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/65042.m3u8
 #EXTINF:-1 tvg-id="CNN.Brasil.HD.br" tvg-logo="https://iili.io/JV2IFcJ.png" group-title="TV ABERTA", CNN BRASIL 4K
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/685
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/65041.m3u8
 #EXTINF:-1 tvg-id="Comedy.Central.HD.br" tvg-logo="https://iili.io/dHVZuFp.png" group-title="VARIEDADES", COMEDY CENTRAL 4K 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/757
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/50537.m3u8
 #EXTINF:-1 tvg-id="Comedy.Central.HD.br" tvg-logo="https://iili.io/dHVZuFp.png" group-title="VARIEDADES", COMEDY CENTRAL HD 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/758
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/40260.m3u8
 #EXTINF:-1 tvg-id="Discovery.HD.br" tvg-logo="https://iili.io/JGt11sI.png" group-title="VARIEDADES", DISCOVERY 4K 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/4
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/50538.m3u8
 #EXTINF:-1 tvg-id="Discovery.HD.br" tvg-logo="https://iili.io/JGt11sI.png" group-title="VARIEDADES",  DISCOVERY FHD 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/5
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/36985.m3u8
 #EXTINF:-1 tvg-id="Discovery.HD.br" tvg-logo="https://iili.io/JGt11sI.png" group-title="VARIEDADES",  DISCOVERY HD  
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/6
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/38404.m3u8
 #EXTINF:-1 tvg-id="Discovery.Home.and.Health.HD.br" tvg-logo="https://iili.io/JGt1XJs.png" group-title="VARIEDADES", DISCOVERY H&H HD+
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/7
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/62883.m3u8
 #EXTINF:-1 tvg-id="Discovery.Home.and.Health.HD.br" tvg-logo="https://iili.io/JGt1XJs.png" group-title="VARIEDADES", DISCOVERY H&H 4K 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/8
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/38389.m3u8
 #EXTINF:-1 tvg-id="Discovery.Home.and.Health.HD.br" tvg-logo="https://iili.io/JGt1XJs.png" group-title="VARIEDADES", DISCOVERY H&H HD 
-http://esmicanal.com:25461/Peppe_DaddioR3st/cUWBytpB2hKp/133798
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/74791.m3u8
 #EXTINF:-1 tvg-id="ID.HD.br" tvg-logo="https://iili.io/JGt1h5G.png" group-title="VARIEDADES", ID HD 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/35
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/51250.m3u8
 #EXTINF:-1 tvg-id="ID.HD.br" tvg-logo="https://iili.io/JGt1h5G.png" group-title="VARIEDADES", ID HD 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/37
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/41489.m3u8
 #EXTINF:-1 tvg-id="Discovery.Science.HD.br" tvg-logo="https://iili.io/JGt1wb4.png" group-title="VARIEDADES", DISCOVERY SCIENCE 4k 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/10
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/50540.m3u8
 #EXTINF:-1 tvg-id="Discovery.Science.HD.br" tvg-logo="https://iili.io/JGt1wb4.png" group-title="VARIEDADES", DISCOVERY SCIENCE HD 
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/8910
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/41474.m3u8
 #EXTINF:-1 tvg-id="Discovery.Theater.br" tvg-logo="https://iili.io/JGt1Ozl.png" group-title="VARIEDADES", DISCOVERY THEATER 4K 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/13867
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/62879.m3u8
 #EXTINF:-1 tvg-id="Discovery.theater.br" tvg-logo="https://iili.io/JGt1Ozl.png" group-title="VARIEDADES", DISCOVERY THEATER HD 
-http://esmicanal.com:25461/Peppe_DaddioR3st/cUWBytpB2hKp/133800
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/41475.m3u8
 #EXTINF:-1 tvg-id="Discovery.Turbo.HD.br" tvg-logo="https://iili.io/JGt1ksS.png" group-title="VARIEDADES", DISCOVERY TURBO HDR+
- http://voz.one:80/juniorfont3/rLgxfzzgLARZ/89350
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/62877.m3u8
 #EXTINF:-1 tvg-id="Discovery.Turbo.HD.br" tvg-logo="https://iili.io/JGt1ksS.png" group-title="VARIEDADES", DISCOVERY TURBO 4K 
-http://esmicanal.com:25461/Peppe_DaddioR3st/cUWBytpB2hKp/133801
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/38388.m3u8
 #EXTINF:-1 tvg-id="Discovery.World.br" tvg-logo="https://iili.io/JGt18q7.png" group-title="VARIEDADES", DISCOVERY WORLD 4K 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/13869
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/62875.m3u8
 #EXTINF:-1 tvg-id="Discovery.World.br" tvg-logo="https://iili.io/JGt18q7.png" group-title="VARIEDADES", DISCOVERY WORLD HD
- http://esmicanal.com:25461/Peppe_DaddioR3st/cUWBytpB2hKp/42820
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/38387.m3u8
 #EXTINF:-1 tvg-id="fishtv.br" tvg-logo="https://iili.io/JGt10WN.png" group-title="VARIEDADES", FISH TV 4K 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/13877
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/41478.m3u8
 #EXTINF:-1 tvg-id="fishtv.br" tvg-logo="https://iili.io/JGt10WN.png'" group-title="VARIEDADES", FISH TV HD
- http://voz.one:80/juniorfont3/rLgxfzzgLARZ/26
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/42911.m3u8
 #EXTINF:-1 tvg-id="Globo.SP.HD.br" tvg-logo="https://iili.io/JM7UeP1.png" group-title="TV ABERTA", GLOBO SP HD  
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/45859
-#EXTINF:-1 tvg-id="Globo.News.HD.br" tvg-logo="https://iili.io/JV2IBup.png" group-title="TV ABERTA", GLOBO NEWS 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/691
-#EXTINF:-1 tvg-id="Globo.News.HD.br" tvg-logo="https://iili.io/JV2IBup.png" group-title="TV ABERTA", GLOBO NEWS 
-HD http://wanicelife.com:8880/kg48m3n08252/xcsdfawq122/65731
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/37361.m3u8
+#EXTINF:-1 tvg-id="Globo.SP.HD.br" tvg-logo="https://iili.io/JM7UeP1.png" group-title="TV ABERTA", GLOBO SP HD 
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/215397.m3u8
+#EXTINF:-1 tvg-id="Globo.SP.HD.br" tvg-logo="https://iili.io/JM7UeP1.png" group-title="TV ABERTA", GLOBO SP HD (VANGUARDA)
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/73223.m3u8
+#EXTINF:-1 tvg-id="Globo.News.HD.br" tvg-logo="https://iili.io/JV2IBup.png" group-title="TV ABERTA", GLOBO NEWS 4K 
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/62840.m3u8
+#EXTINF:-1 tvg-id="Globo.News.HD.br" tvg-logo="https://iili.io/JV2IBup.png" group-title="TV ABERTA", GLOBO NEWS HD 
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/38397.m3u8
 #EXTINF:-1 tvg-id="HBO.HD.br" tvg-logo="https://iili.io/JV9fOlt.png" group-title="CANAIS DE FILMES", HBO HD 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/600
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/61972.m3u8
 #EXTINF:-1 tvg-id="HBO.HD.br" tvg-logo="https://iili.io/JV9fOlt.png" group-title="CANAIS DE FILMES", HBO 4K 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/601
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/65114.m3u8
 #EXTINF:-1 tvg-id="HBO.2.HD.br" tvg-logo="https://iili.io/JV9fhVp.png" group-title="CANAIS DE FILMES", HBO 2 4K 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/594
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/51248.m3u8
 #EXTINF:-1 tvg-id="HBO.2.HD.br" tvg-logo="https://iili.io/JV9fhVp.png" group-title="CANAIS DE FILMES", HBO 2 HD 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/595
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/38423.m3u8
 #EXTINF:-1 tvg-id="HBO.Plus.HD.br" tvg-logo="https://iili.io/JV9fMOJ.png" group-title="CANAIS DE FILMES", HBO+ FHD 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/606
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/51246.m3u8
 #EXTINF:-1 tvg-id="HBO.Plus.HD.br" tvg-logo="https://iili.io/JV9fMOJ.png" group-title="CANAIS DE FILMES", HBO + 4K
- 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/605
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/41487.m3u8
 #EXTINF:-1 tvg-id="HBO.Signature.HD.br" tvg-logo="https://iili.io/JV9fNfI.png" group-title="CANAIS DE FILMES", HBO SIGNATURE 4K 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/612
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/51247.m3u8
 #EXTINF:-1 tvg-id="HBO.Signature.HD.br" tvg-logo="https://iili.io/JV9fNfI.png" group-title="CANAIS DE FILMES", HBO SIGNATURE HD
- http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/8836
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/41488.m3u8
 #EXTINF:-1 tvg-id="HBO.Xtreme.HD.br" tvg-logo="https://iili.io/JV9feUX.png" group-title="CANAIS DE FILMES", HBO XTREME 4K 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/615
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/62865.m3u8
 #EXTINF:-1 tvg-id="HBO.Xtreme.HD.br" tvg-logo="https://iili.io/JV9feUX.png" group-title="CANAIS DE FILMES", HBO XTREME HD 
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/8824
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/81799.m3u8
 #EXTINF:-1 tvg-id="History.2.br" tvg-logo="https://iili.io/JGt1Gft.png" group-title="VARIEDADES", HISTORY 2 4K
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/29
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/62853.m3u8
 #EXTINF:-1 tvg-id="History.2.br" tvg-logo="https://iili.io/JGt1Gft.png" group-title="VARIEDADES", HISTORY 2 HD 
-
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/41485.m3u8
 #EXTINF:-1 tvg-id="História.HD.br" tvg-logo="https://iili.io/JGt1Vgn.png" group-title="VARIEDADES", HISTORY  4K 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/32
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/62858.m3u8
 #EXTINF:-1 tvg-id="História.HD.br" tvg-logo="https://iili.io/JGt1Vgn.png" group-title="VARIEDADES",HISTORY HD 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/13893
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/38383.m3u8
 #EXTINF:-1 tvg-id="Jovem.Pan.News.br" tvg-logo="https://iili.io/JV2ICwN.png" group-title="TV ABERTA", JOVEM PAN NEWS 4K 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/71488
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/83444.m3u8
 #EXTINF:-1 tvg-id="Jovem.Pan.News.br" tvg-logo="https://iili.io/JV2ICwN.png" group-title="TV ABERTA", JOVEM PAN NEWS HD 
-http://canal.cdntv.com.br:80/amanda123/amanda123/52
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/85006.m3u8
 #EXTINF:-1 tvg-id="Megapix.HD.br" tvg-logo="https://iili.io/JM5cvLP.png" group-title="CANAIS DE FILMES", MEGAPIX 4K
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/448
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/61844.m3u8
 #EXTINF:-1 tvg-id="Megapix.HD.br" tvg-logo="https://iili.io/JM5cvLP.png" group-title="CANAIS DE FILMES", MEGAPIX HD
- http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/8842
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/41491.m3u8
 #EXTINF:-1 tvg-id="Multishow.HD.br" tvg-logo="https://iili.io/dHVZcts.png" group-title="VARIEDADES", MULTIHOW HD  
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/775
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/62849.m3u8
 #EXTINF:-1 tvg-id="Multishow.HD.br" tvg-logo="https://iili.io/dHVZcts.png" group-title="VARIEDADES", MULTISHOW FHD
- http://voz.one:80/juniorfont3/rLgxfzzgLARZ/774
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/41493.m3u8
 #EXTINF:-1 tvg-id="Paramount.Network.HD.br" tvg-logo="https://iili.io/JM5cSB1.png" group-title="CANAIS DE FILMES", PARAMOUNT NETWORK 4K 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/451
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/62892.m3u8
 #EXTINF:-1 tvg-id="Paramount.Network.HD.br" tvg-logo="https://iili.io/JM5cSB1.png" group-title="CANAIS DE FILMES", PARAMOUNT NETWORK HD 
-http://wanicelife.com:8880/kg48m3n08252/xcsdfawq122/65773
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/41500.m3u8
 #EXTINF:-1 tvg-id="Record.HD.br" tvg-logo="https://iili.io/dzY5j1V.png" group-title="TV ABERTA", RECORD SP HD
- http://voz.one:80/juniorfont3/rLgxfzzgLARZ/219
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/215408.m3u8
 #EXTINF:-1 tvg-id="Record.News.br" tvg-logo="https://iili.io/JV2IntI.png" group-title="TV ABERTA", RECORD NEWS HD 
-http://authxplus-2.xyz:2082/Tourobox1-ePaEyaMQtC/Ot5i7KzFFQ/452
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/37050.m3u8
 #EXTINF:-1 tvg-id="SBT.HD.br" tvg-logo="https://iili.io/Jm1qBzx.png" group-title="TV ABERTA", SBT 4K
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/7367
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/91320.m3u8
 #EXTINF:-1 tvg-id="SBT.HD.br" tvg-logo="https://iili.io/Jm1qBzx.png" group-title="TV ABERTA", SBT HD
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/310
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/38420.m3u8
 #EXTINF:-1 tvg-id="Sony.HD.br" tvg-logo="https://iili.io/JM5cUEF.png" group-title="CANAIS DE FILMES", SONY CHANNEL HD 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/454
-#EXTINF:-1 tvg-id="Space.HD.br" tvg-logo="https://iili.io/JM5cgrg.png" group-title="CANAIS DE FILMES", SPACE 
-HD http://voz.one:80/juniorfont3/rLgxfzzgLARZ/13920
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/62802.m3u8
+#EXTINF:-1 tvg-id="Space.HD.br" tvg-logo="https://iili.io/JM5cgrg.png" group-title="CANAIS DE FILMES", SPACE HD 
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/51267.m3u8
 #EXTINF:-1 tvg-id="Space.HD.br" tvg-logo="https://iili.io/JM5cgrg.png" group-title="CANAIS DE FILMES", SPACE 4K 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/457
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/41503.m3u8
 #EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://iili.io/JjCvMsR.png" group-title="CANAIS DE ESPORTES", SPORTV 1 HD+ 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/13923
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/51270.m3u8
 #EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://iili.io/JjCvMsR.png" group-title="CANAIS DE ESPORTES", SPORTV 1 4K 
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/4015
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/37256.m3u8
 #EXTINF:-1 tvg-id="Sportv.2.br" tvg-logo="https://iili.io/JjCvEzJ.png" group-title="CANAIS DE ESPORTES", SPORTV 2 HD+ 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/13921
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/51268.m3u8
 #EXTINF:-1 tvg-id="sportv.2.br" tvg-logo="https://iili.io/JjCvEzJ.png" group-title="CANAIS DE ESPORTES", SPORTV 2 4K 
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/8783
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/38395.m3u8
 #EXTINF:-1 tvg-id="SporTV.3.br" tvg-logo="https://iili.io/JjCvWfp.png" group-title="CANAIS DE ESPORTES", SPORTV 3 4K 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/13922
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/62916.m3u8
+#EXTINF:-1 tvg-id="SporTV.3.br" tvg-logo="https://iili.io/JjCvWfp.png" group-title="CANAIS DE ESPORTES", SPORTV 3 HD
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/38394.m3u8
 #EXTINF:-1 tvg-id="Telecine.Action.HD.br" tvg-logo="https://iili.io/Jm1BrFI.png" group-title="CANAIS DE FILMES", TELECINE ACTION HD 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/798
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/74797.m3u8
 #EXTINF:-1 tvg-id="Telecine.Action.HD.br" tvg-logo="https://iili.io/Jm1BrFI.png" group-title="CANAIS DE FILMES", TELECINE ACTION 4K 
-http://esmicanal.com:25461/Peppe_DaddioR3st/cUWBytpB2hKp/42863
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/51286.m3u8
 #EXTINF:-1 tvg-id="Telecine.Action.HD.br" tvg-logo="https://iili.io/Jm1BrFI.png" group-title="CANAIS DE FILMES", TELECINE ACTION HD 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/798
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/38418.m3u8
 #EXTINF:-1 tvg-id="Telecine.Cult.HD.br" tvg-logo="https://iili.io/Jm1B8nR.png" group-title="CANAIS DE FILMES", TELECINE CULT 4K 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/801
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/51287.m3u8
 #EXTINF:-1 tvg-id="Telecine.Cult.HD.br" tvg-logo="https://iili.io/Jm1B8nR.png" group-title="CANAIS DE FILMES", TELECINE CULT HD 
-http://esmicanal.com:25461/Peppe_DaddioR3st/cUWBytpB2hKp/42876
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/51287.m3u8
 #EXTINF:-1 tvg-id="Telecine.Fun.HD.br" tvg-logo="https://iili.io/Jm1BSGp.png" group-title="CANAIS DE FILMES", TELECINE FUN 4K 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/804
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/51301.m3u8
 #EXTINF:-1 tvg-id="Telecine.Fun.HD.br" tvg-logo="https://iili.io/Jm1BSGp.png" group-title="CANAIS DE FILMES", TELECINE FUN HD 
-http://esmicanal.com:25461/Peppe_DaddioR3st/cUWBytpB2hKp/42875
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/81785.m3u8
 #EXTINF:-1 tvg-id="Telecine.Pipoca.HD.br" tvg-logo="https://iili.io/Jm1BU6N.png" group-title="CANAIS DE FILMES", TELECINE PIPOCA 4K 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/806
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/51302.m3u8
 #EXTINF:-1 tvg-id="Telecine.Pipoca.HD.br" tvg-logo="https://iili.io/Jm1BU6N.png" group-title="CANAIS DE FILMES", TELECINE PIPOCA HD 
-http://wanicelife.com:8880/kg48m3n08252/xcsdfawq122/65806
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/38416.m3u8
 #EXTINF:-1 tvg-id="Telecine.Premium.HD.br" tvg-logo="https://iili.io/Jm1B4at.png" group-title="CANAIS DE FILMES", TELECINE PREMIUM 4K 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/809
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/64378.m3u8
 #EXTINF:-1 tvg-id="Telecine.Premium.HD.br" tvg-logo="https://iili.io/Jm1B4at.png" group-title="CANAIS DE FILMES", TELECINE PREMIUM HD 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/13931
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/51303.m3u8
 #EXTINF:-1 tvg-id="Telecine.Touch.HD.br" tvg-logo="https://iili.io/Jm1B68X.png" group-title="CANAIS DE FILMES", TELECINE TOUCH 4K 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/812
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/62906.m3u8
 #EXTINF:-1 tvg-id="Telecine.Touch.HD.br" tvg-logo="https://iili.io/Jm1B68X.png" group-title="CANAIS DE FILMES", TELECINE TOUCH HD 
-http://esmicanal.com:25461/Peppe_DaddioR3st/cUWBytpB2hKp/42831
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/81783.m3u8
 #EXTINF:-1 tvg-id="TLC.HD.br" tvg-logo="https://iili.io/JGt1eX2.png" group-title="VARIEDADES", TLC 4K
- http://canal.cdntv.com.br:80/amanda123/amanda123/513
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/61964.m3u8
 #EXTINF:-1 tvg-id="TLC.HD.br" tvg-logo="https://iili.io/JGt1eX2.png" group-title="VARIEDADES", TLC HD 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/13933
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/62809.m3u8
 #EXTINF:-1 tvg-id="TNT.HD.br" tvg-logo="https://iili.io/JM5cQhN.png" group-title="CANAIS DE FILMES", TNT 4K 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/469
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/51305.m3u8
 #EXTINF:-1 tvg-id="TNT.HD.br" tvg-logo="https://iili.io/JM5cQhN.png" group-title="CANAIS DE FILMES", TNT HD 
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/8840
-#EXTINF:-1 tvg-id="TNT.HD.br" tvg-logo="https://iili.io/JM5cQhN.png" group-title="CANAIS DE FILMES", TNT
- http://esmicanal.com:25461/Peppe_DaddioR3st/cUWBytpB2hKp/172623
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/41507.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JM5cipR.png" group-title="VARIEDADES", TNT NOVELA 4K 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/13926
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/62913.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JM5cipR.png" group-title="VARIEDADES", TNT NOVELAS HD 
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/306559
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/41505.m3u8
 #EXTINF:-1 tvg-id="TNT.Séries.HD.br" tvg-logo="https://iili.io/JM5cLIp.png" group-title="VARIEDADES", TNT SERIES 4K 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/469
-#EXTINF:-1 tvg-id="TNT.Séries.HD.br" tvg-logo="https://iili.io/JM5cLIp.png" group-title="VARIEDADES", TNT SERIES HD 
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/8827
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/51306.m3u8
+#EXTINF:-1 tvg-id="TNT.Séries.HD.br" tvg-logo="https://iili.io/JM5cLIp.png" group-title="VARIEDADES", TNT SÉRIE HD 
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/41508.m3u8
 #EXTINF:-1 tvg-id="Cultura.HD.br" tvg-logo="https://iili.io/JjCXfst.png" group-title="TV ABERTA", TV CULTURA UHD 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/254
-#EXTINF:-1 tvg-id="Universal.TV.HD.br" tvg-logo="https://iili.io/JM5cDBt.png" group-title="VARIEDADES", CANAL UNIVERSAL 4K 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/475
-#EXTINF:-1 tvg-id="Universal.TV.HD.br" tvg-logo="https://iili.io/JM5cDBt.png" group-title="VARIEDADES", CANAL UNIVERSAL HD  
-http://wanicelife.com:8880/kg48m3n08252/xcsdfawq122/65816
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/42903.m3u8
+#EXTINF:-1 tvg-id="Universal.TV.HD.br" tvg-logo="https://iili.io/JM5cDBt.png" group-title="VARIEDADES", STUDIO UNIVERSAL 4K 
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/62917.m3u8
+#EXTINF:-1 tvg-id="Universal.TV.HD.br" tvg-logo="https://iili.io/JM5cDBt.png" group-title="VARIEDADES", UNIVERSAL CHANNEL HD  
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/91341.m3u8
 #EXTINF:-1 tvg-id="Viva.HD.br" tvg-logo="https://iili.io/dHVZMKl.png" group-title="VARIEDADES", VIVA 4K
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/784
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/74792.m3u8
 #EXTINF:-1 tvg-id="Viva.HD.br" tvg-logo="https://iili.io/dHVZMKl.png" group-title="VARIEDADES", VIVA HD 
-http://voz.one:80/juniorfont3/rLgxfzzgLARZ/786 
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/62893.m3u8
 #EXTINF:-1 tvg-id="Warner.HD.br" tvg-logo="https://iili.io/JM5cm4n.png" group-title="CANAIS DE FILMES",WARNER CHANNEL 4K
- http://voz.one:80/juniorfont3/rLgxfzzgLARZ/478
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/62891.m3u8
 #EXTINF:-1 tvg-id="Warner.HD.br" tvg-logo="https://iili.io/JM5cm4n.png" group-title="CANAIS DE FILMES",WARNER CHANNEL HD
- http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/8825
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/38384.m3u8
 #EXTINF:-1 tvg-id="Warner.HD.br" tvg-logo="https://iili.io/JM5cm4n.png" group-title="CANAIS DE FILMES",WARNER CHANNEL
- http://voz.one:80/juniorfont3/rLgxfzzgLARZ/480
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/36996.m3u8
 
+EXTINF:-1,Chapolin Colorado 24hs
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/59743.m3u8
+#EXTINF:-1,Chaves [24h]
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/934735.m3u8
+EXTINF:-1,Os Simpsons  [24h]
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/934723.m3u8
+EXTINF:-1,The Big Bang Theory [24h]
+http://play.1list.vip/live/wellington23109/eclh62u6a8h/217874.m3u8
 
