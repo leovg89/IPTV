@@ -1,0 +1,851 @@
+#EXTM3U
+#EXTINF:-1,A&E
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37130.m3u8
+#EXTINF:-1,A&E FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/40263.m3u8
+#EXTINF:-1,A&E H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62889.m3u8
+#EXTINF:-1,A&E HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36929.m3u8
+#EXTINF:-1,A&E [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50628.m3u8
+#EXTINF:-1,A&E | Dual Áudio
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63257.m3u8
+#EXTINF:-1,AMC
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/41087.m3u8
+#EXTINF:-1,AMC FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/40262.m3u8
+#EXTINF:-1,AMC FHD [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50636.m3u8
+#EXTINF:-1,AMC FHD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/221401.m3u8
+#EXTINF:-1,AMC H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62888.m3u8
+#EXTINF:-1,AMC HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36928.m3u8
+#EXTINF:-1,AMC HD  [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50639.m3u8
+#EXTINF:-1,AMC [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50640.m3u8
+#EXTINF:-1,AXN
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37132.m3u8
+#EXTINF:-1,AXN   | Dual Áudio
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63225.m3u8
+#EXTINF:-1,AXN FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/41468.m3u8
+#EXTINF:-1,AXN FHD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/221393.m3u8
+#EXTINF:-1,AXN H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62796.m3u8
+#EXTINF:-1,AXN HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36991.m3u8
+#EXTINF:-1,AXN HD [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50646.m3u8
+#EXTINF:-1,AXN HD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/221378.m3u8
+#EXTINF:-1,AXN [4K]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/74799.m3u8
+#EXTINF:-1,AXN [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50647.m3u8
+#EXTINF:-1,Animal Planet
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37128.m3u8
+#EXTINF:-1,Animal Planet FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38392.m3u8
+#EXTINF:-1,Animal Planet H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62794.m3u8
+#EXTINF:-1,Animal Planet HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36992.m3u8
+#EXTINF:-1,Animal Planet | Dual Áudio
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63256.m3u8
+#EXTINF:-1,BIS
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37131.m3u8
+#EXTINF:-1,BIS FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38403.m3u8
+#EXTINF:-1,BIS FHD [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50660.m3u8
+#EXTINF:-1,BIS H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62799.m3u8
+#EXTINF:-1,BIS HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36988.m3u8
+#EXTINF:-1,BIS | Dual Áudio
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63262.m3u8
+#EXTINF:-1,Band FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38429.m3u8
+#EXTINF:-1,Band SP FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/41514.m3u8
+#EXTINF:-1,Band H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62887.m3u8
+#EXTINF:-1,Band HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36990.m3u8
+#EXTINF:-1,Band News FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38391.m3u8
+#EXTINF:-1,Band News H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62797.m3u8
+#EXTINF:-1,Band News HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/42411.m3u8
+#EXTINF:-1,Band News HD [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50654.m3u8
+#EXTINF:-1,Band News [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50655.m3u8
+#EXTINF:-1,BandSports
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37125.m3u8
+#EXTINF:-1,BandSports FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/42900.m3u8
+#EXTINF:-1,BandSports H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62798.m3u8
+#EXTINF:-1,BandSports HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36989.m3u8
+#EXTINF:-1,BandSports [4K]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/215407.m3u8
+#EXTINF:-1,CNBC Brasil HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/225129.m3u8
+#EXTINF:-1,CNN Brasil FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/65041.m3u8
+#EXTINF:-1,CNN Brasil H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/65042.m3u8
+#EXTINF:-1,CNN Brasil HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/65039.m3u8
+#EXTINF:-1,CNN Brasil [4K]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/74790.m3u8
+#EXTINF:-1,Cinemax - H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50535.m3u8
+#EXTINF:-1,Cinemax FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/40261.m3u8
+#EXTINF:-1,Cinemax FHD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/221866.m3u8
+#EXTINF:-1,Cinemax H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62808.m3u8
+#EXTINF:-1,Cinemax HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36926.m3u8
+#EXTINF:-1,Cinemax HD [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50669.m3u8
+#EXTINF:-1,Cinemax HD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/221865.m3u8
+#EXTINF:-1,Combate
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37119.m3u8
+#EXTINF:-1,Combate FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38428.m3u8
+#EXTINF:-1,Combate H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50536.m3u8
+#EXTINF:-1,Combate HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36986.m3u8
+#EXTINF:-1,Comedy Central
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37118.m3u8
+#EXTINF:-1,Comedy Central FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/40260.m3u8
+#EXTINF:-1,Comedy Central H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50537.m3u8
+#EXTINF:-1,Comedy Central H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62813.m3u8
+#EXTINF:-1,Comedy Central HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36925.m3u8
+#EXTINF:-1,Comedy Central HD [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50674.m3u8
+#EXTINF:-1,Comedy Central | Dual Áudio
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63258.m3u8
+#EXTINF:-1,Cultura
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/40073.m3u8
+#EXTINF:-1,Cultura FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/42903.m3u8
+#EXTINF:-1,Cultura HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/61961.m3u8
+#EXTINF:-1,Discovery Channel FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38404.m3u8
+#EXTINF:-1,Discovery Channel H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50538.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36985.m3u8
+#EXTINF:-1,Discovery Channel HD [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50691.m3u8
+#EXTINF:-1,Discovery Channel | Dual Áudio
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63234.m3u8
+#EXTINF:-1,Discovery Home & Health
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36984.m3u8
+#EXTINF:-1,Discovery Home & Health FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38389.m3u8
+#EXTINF:-1,Discovery Home & Health H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62883.m3u8
+#EXTINF:-1,Discovery Home & Health HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37115.m3u8
+#EXTINF:-1,Discovery Home & Health [4K]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/74791.m3u8
+#EXTINF:-1,Discovery Science
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/51002.m3u8
+#EXTINF:-1,Discovery Science FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/41474.m3u8
+#EXTINF:-1,Discovery Science H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50540.m3u8
+#EXTINF:-1,Discovery Science H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62880.m3u8
+#EXTINF:-1,Discovery Science HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36922.m3u8
+#EXTINF:-1,Discovery Science HD [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50708.m3u8
+#EXTINF:-1,Discovery Science | Dual Audio
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63313.m3u8
+#EXTINF:-1,Discovery Theater
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/51007.m3u8
+#EXTINF:-1,Discovery Theater FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/41475.m3u8
+#EXTINF:-1,Discovery Theater H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62879.m3u8
+#EXTINF:-1,Discovery Theater HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36983.m3u8
+#EXTINF:-1,Discovery Theater HD [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50709.m3u8
+#EXTINF:-1,Discovery Theater | Dual Audio
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63312.m3u8
+#EXTINF:-1,Discovery Turbo
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37112.m3u8
+#EXTINF:-1,Discovery Turbo FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38388.m3u8
+#EXTINF:-1,Discovery Turbo H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62877.m3u8
+#EXTINF:-1,Discovery Turbo HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36982.m3u8
+#EXTINF:-1,Discovery Turbo HD [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50710.m3u8
+#EXTINF:-1,Discovery Turbo [4K]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/74794.m3u8
+#EXTINF:-1,Discovery Turbo [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50711.m3u8
+#EXTINF:-1,Discovery Turbo | Dual Áudio
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63235.m3u8
+#EXTINF:-1,Discovery World
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/64498.m3u8
+#EXTINF:-1,Discovery World FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38387.m3u8
+#EXTINF:-1,Discovery World H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62875.m3u8
+#EXTINF:-1,Discovery World HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36981.m3u8
+#EXTINF:-1,Discovery World HD [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50712.m3u8
+#EXTINF:-1,Discovery World | Dual Audio
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63314.m3u8
+#EXTINF:-1,Discovery World | Dual Áudio
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63230.m3u8
+#EXTINF:-1,ESPN
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37104.m3u8
+#EXTINF:-1,ESPN  [4K]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/215398.m3u8
+#EXTINF:-1,ESPN 2
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37105.m3u8
+#EXTINF:-1,ESPN 2  [4K]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/215399.m3u8
+#EXTINF:-1,ESPN 2 FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38401.m3u8
+#EXTINF:-1,ESPN 2 FHD H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/59097.m3u8
+#EXTINF:-1,ESPN 2 H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62869.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36977.m3u8
+#EXTINF:-1,ESPN 2 HD [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50739.m3u8
+#EXTINF:-1,ESPN 3
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62745.m3u8
+#EXTINF:-1,ESPN 3 FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/41477.m3u8
+#EXTINF:-1,ESPN 3 H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62817.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36976.m3u8
+#EXTINF:-1,ESPN 3 HD [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50734.m3u8
+#EXTINF:-1,ESPN 3 [4K]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/215400.m3u8
+#EXTINF:-1,ESPN 3 | Dual Áudio
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63239.m3u8
+#EXTINF:-1,ESPN 4
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/85335.m3u8
+#EXTINF:-1,ESPN 4 - H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/51241.m3u8
+#EXTINF:-1,ESPN 4 FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63306.m3u8
+#EXTINF:-1,ESPN 4 FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/85337.m3u8
+#EXTINF:-1,ESPN 4 H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62859.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36970.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/85336.m3u8
+#EXTINF:-1,ESPN 4 [4K]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/215401.m3u8
+#EXTINF:-1,ESPN 5
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37098.m3u8
+#EXTINF:-1,ESPN 5 - H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50545.m3u8
+#EXTINF:-1,ESPN 5 FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38398.m3u8
+#EXTINF:-1,ESPN 5 H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62862.m3u8
+#EXTINF:-1,ESPN 5 HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36971.m3u8
+#EXTINF:-1,ESPN 6
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/129622.m3u8
+#EXTINF:-1,ESPN 6 FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/129624.m3u8
+#EXTINF:-1,ESPN 6 H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62818.m3u8
+#EXTINF:-1,ESPN 6 HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/129623.m3u8
+#EXTINF:-1,ESPN FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38413.m3u8
+#EXTINF:-1,ESPN FHD H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/59096.m3u8
+#EXTINF:-1,ESPN H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62870.m3u8
+#EXTINF:-1,ESPN HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/73051.m3u8
+#EXTINF:-1,ESPN HD [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50736.m3u8
+#EXTINF:-1,Fish TV
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37103.m3u8
+#EXTINF:-1,Fish TV FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/41478.m3u8
+#EXTINF:-1,Fish TV HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/42911.m3u8
+#EXTINF:-1,Globo SP FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38424.m3u8
+#EXTINF:-1,Globo SP FHD - H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/68050.m3u8
+#EXTINF:-1,Globo SP H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62855.m3u8
+#EXTINF:-1,Globo SP HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37361.m3u8
+#EXTINF:-1,Globo SP HD [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/51150.m3u8
+#EXTINF:-1,Globo SP [4K]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/215397.m3u8
+#EXTINF:-1,Globo TV Vanguarda S. J. dos Campos
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/42967.m3u8
+#EXTINF:-1,Globo TV Vanguarda S. J. dos Campos FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/74667.m3u8
+#EXTINF:-1,Globo TV Vanguarda S. J. dos Campos HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/74666.m3u8
+#EXTINF:-1,Globo TV Vanguarda Taubate
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/73221.m3u8
+#EXTINF:-1,Globo TV Vanguarda Taubate FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/73223.m3u8
+#EXTINF:-1,GloboNews
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37093.m3u8
+#EXTINF:-1,GloboNews FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38397.m3u8
+#EXTINF:-1,GloboNews H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62840.m3u8
+#EXTINF:-1,GloboNews HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36917.m3u8
+#EXTINF:-1,HBO 2
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37086.m3u8
+#EXTINF:-1,HBO 2 FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38423.m3u8
+#EXTINF:-1,HBO 2 H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/51248.m3u8
+#EXTINF:-1,HBO 2 H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62845.m3u8
+#EXTINF:-1,HBO 2 HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36966.m3u8
+#EXTINF:-1,HBO 2 HD [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50788.m3u8
+#EXTINF:-1,HBO FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/61972.m3u8
+#EXTINF:-1,HBO FHD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/81789.m3u8
+#EXTINF:-1,HBO Family
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37085.m3u8
+#EXTINF:-1,HBO Family FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/41486.m3u8
+#EXTINF:-1,HBO Family FHD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/221413.m3u8
+#EXTINF:-1,HBO Family H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62847.m3u8
+#EXTINF:-1,HBO Family HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36965.m3u8
+#EXTINF:-1,HBO Family HD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/221412.m3u8
+#EXTINF:-1,HBO Family [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50791.m3u8
+#EXTINF:-1,HBO Family | Dual Audio
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63308.m3u8
+#EXTINF:-1,HBO H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62848.m3u8
+#EXTINF:-1,HBO HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36964.m3u8
+#EXTINF:-1,HBO HD [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50792.m3u8
+#EXTINF:-1,HBO HD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/81790.m3u8
+#EXTINF:-1,HBO Mundi
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37076.m3u8
+#EXTINF:-1,HBO Mundi FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/40268.m3u8
+#EXTINF:-1,HBO Mundi FHD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/81795.m3u8
+#EXTINF:-1,HBO Mundi H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62863.m3u8
+#EXTINF:-1,HBO Mundi HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36913.m3u8
+#EXTINF:-1,HBO Mundi HD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/81796.m3u8
+#EXTINF:-1,HBO POP
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37073.m3u8
+#EXTINF:-1,HBO POP FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/40270.m3u8
+#EXTINF:-1,HBO POP FHD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/81797.m3u8
+#EXTINF:-1,HBO POP H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62866.m3u8
+#EXTINF:-1,HBO POP HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36911.m3u8
+#EXTINF:-1,HBO POP HD [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50851.m3u8
+#EXTINF:-1,HBO POP [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50852.m3u8
+#EXTINF:-1,HBO Plus
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37084.m3u8
+#EXTINF:-1,HBO Plus - H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/51246.m3u8
+#EXTINF:-1,HBO Plus E
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37083.m3u8
+#EXTINF:-1,HBO Plus FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/41487.m3u8
+#EXTINF:-1,HBO Plus FHD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/81791.m3u8
+#EXTINF:-1,HBO Plus H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62852.m3u8
+#EXTINF:-1,HBO Plus HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36963.m3u8
+#EXTINF:-1,HBO Plus HD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/81792.m3u8
+#EXTINF:-1,HBO Plus | Dual Áudio
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63244.m3u8
+#EXTINF:-1,HBO Pop HD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/81798.m3u8
+#EXTINF:-1,HBO Signature
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37082.m3u8
+#EXTINF:-1,HBO Signature - H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/51247.m3u8
+#EXTINF:-1,HBO Signature FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/41488.m3u8
+#EXTINF:-1,HBO Signature FHD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/81793.m3u8
+#EXTINF:-1,HBO Signature H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62856.m3u8
+#EXTINF:-1,HBO Signature HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36962.m3u8
+#EXTINF:-1,HBO Signature HD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/81794.m3u8
+#EXTINF:-1,HBO Xtreme
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37075.m3u8
+#EXTINF:-1,HBO Xtreme E
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37074.m3u8
+#EXTINF:-1,HBO Xtreme FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/42901.m3u8
+#EXTINF:-1,HBO Xtreme FHD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/81799.m3u8
+#EXTINF:-1,HBO Xtreme H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62865.m3u8
+#EXTINF:-1,HBO Xtreme HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36912.m3u8
+#EXTINF:-1,HBO Xtreme HD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/81800.m3u8
+#EXTINF:-1,History
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37081.m3u8
+#EXTINF:-1,History 2
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/42915.m3u8
+#EXTINF:-1,History 2 - H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62853.m3u8
+#EXTINF:-1,History 2 FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/41485.m3u8
+#EXTINF:-1,History 2 H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/51245.m3u8
+#EXTINF:-1,History 2 HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36961.m3u8
+#EXTINF:-1,History 2 HD [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50786.m3u8
+#EXTINF:-1,History 2 [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50787.m3u8
+#EXTINF:-1,History 2 | Dual Áudio
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63221.m3u8
+#EXTINF:-1,History FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38383.m3u8
+#EXTINF:-1,History H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62858.m3u8
+#EXTINF:-1,History HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36960.m3u8
+#EXTINF:-1,ID: Investigação Discovery
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37114.m3u8
+#EXTINF:-1,ID: Investigação Discovery FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/41489.m3u8
+#EXTINF:-1,ID: Investigação Discovery H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/51250.m3u8
+#EXTINF:-1,ID: Investigação Discovery H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62851.m3u8
+#EXTINF:-1,ID: Investigação Discovery HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36959.m3u8
+#EXTINF:-1,ID: Investigação Discovery HD [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50803.m3u8
+#EXTINF:-1,Jovem Pan News FHD (A)
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/83444.m3u8
+#EXTINF:-1,Jovem Pan News FHD (B)
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/85006.m3u8
+#EXTINF:-1,Jovem Pan News HD (A)
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/83443.m3u8
+#EXTINF:-1,Jovem Pan News HD (B)
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/85005.m3u8
+#EXTINF:-1,MegaPix H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62868.m3u8
+#EXTINF:-1,MegaPix [4K]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/61844.m3u8
+#EXTINF:-1,MegaPix | Dual Audio
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63309.m3u8
+#EXTINF:-1,Megapix
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37072.m3u8
+#EXTINF:-1,Megapix FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/41491.m3u8
+#EXTINF:-1,Megapix FHD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/81803.m3u8
+#EXTINF:-1,Megapix HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36958.m3u8
+#EXTINF:-1,Megapix HD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/81804.m3u8
+#EXTINF:-1,Modo Viagem
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/954355.m3u8
+#EXTINF:-1,Modo Viagem FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/215141.m3u8
+#EXTINF:-1,Modo Viagem FHD H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/954356.m3u8
+#EXTINF:-1,Modo Viagem HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/104056.m3u8
+#EXTINF:-1,Multishow
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37070.m3u8
+#EXTINF:-1,Multishow - H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62849.m3u8
+#EXTINF:-1,Multishow FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/41493.m3u8
+#EXTINF:-1,Multishow H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/51253.m3u8
+#EXTINF:-1,Multishow HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36957.m3u8
+#EXTINF:-1,Multishow | Dual Áudio
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63248.m3u8
+#EXTINF:-1,Paramount Channel
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37062.m3u8
+#EXTINF:-1,Paramount Channel FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/41500.m3u8
+#EXTINF:-1,Paramount Channel H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62892.m3u8
+#EXTINF:-1,Paramount Channel HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36953.m3u8
+#EXTINF:-1,Paramount Channel | Dual Áudio
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63249.m3u8
+#EXTINF:-1,Record News
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/41529.m3u8
+#EXTINF:-1,Record News FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/41502.m3u8
+#EXTINF:-1,Record News HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37050.m3u8
+#EXTINF:-1,Record News [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/51009.m3u8
+#EXTINF:-1,RecordTV FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38421.m3u8
+#EXTINF:-1,RecordTV H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62839.m3u8
+#EXTINF:-1,RecordTV HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36947.m3u8
+#EXTINF:-1,RecordTV [4K]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/215408.m3u8
+#EXTINF:-1,SBT FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38420.m3u8
+#EXTINF:-1,SBT FHD H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/91320.m3u8
+#EXTINF:-1,SBT HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36945.m3u8
+#EXTINF:-1,SBT [4K]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/215406.m3u8
+#EXTINF:-1,SBT [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/51044.m3u8
+#EXTINF:-1,Sony Channel
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37007.m3u8
+#EXTINF:-1,Sony Channel FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/41470.m3u8
+#EXTINF:-1,Sony Channel FHD H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/50533.m3u8
+#EXTINF:-1,Sony Channel H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62802.m3u8
+#EXTINF:-1,Sony Channel HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36987.m3u8
+#EXTINF:-1,Sony Channel | Dual Áudio
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63250.m3u8
+#EXTINF:-1,Sony FHD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/221395.m3u8
+#EXTINF:-1,Sony HD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/221380.m3u8
+#EXTINF:-1,Sony Movies
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/132132.m3u8
+#EXTINF:-1,Sony Movies FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/215593.m3u8
+#EXTINF:-1,Sony Movies HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/132133.m3u8
+#EXTINF:-1,Space
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37046.m3u8
+#EXTINF:-1,Space - H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/51267.m3u8
+#EXTINF:-1,Space FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/41503.m3u8
+#EXTINF:-1,Space FHD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/221419.m3u8
+#EXTINF:-1,Space H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62910.m3u8
+#EXTINF:-1,Space HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36944.m3u8
+#EXTINF:-1,Space HD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/221418.m3u8
+#EXTINF:-1,Space | Dual Áudio
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63220.m3u8
+#EXTINF:-1,SporTV
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37256.m3u8
+#EXTINF:-1,SporTV - H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/51270.m3u8
+#EXTINF:-1,SporTV 2
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37044.m3u8
+#EXTINF:-1,SporTV 2 - H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/51268.m3u8
+#EXTINF:-1,SporTV 2 FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38395.m3u8
+#EXTINF:-1,SporTV 2 H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62914.m3u8
+#EXTINF:-1,SporTV 2 HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36943.m3u8
+#EXTINF:-1,SporTV 2 [4K]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/215402.m3u8
+#EXTINF:-1,SporTV 2 [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/51052.m3u8
+#EXTINF:-1,SporTV 3
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37006.m3u8
+#EXTINF:-1,SporTV 3 FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38394.m3u8
+#EXTINF:-1,SporTV 3 H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62916.m3u8
+#EXTINF:-1,SporTV 3 HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36942.m3u8
+#EXTINF:-1,SporTV 4 HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/127664.m3u8
+#EXTINF:-1,SporTV 5 HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/956438.m3u8
+#EXTINF:-1,SporTV 6 HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/956439.m3u8
+#EXTINF:-1,SporTV FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38419.m3u8
+#EXTINF:-1,SporTV H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62918.m3u8
+#EXTINF:-1,SporTV HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37255.m3u8
+#EXTINF:-1,SporTV HD [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63095.m3u8
+#EXTINF:-1,SporTV [4K]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/40785.m3u8
+#EXTINF:-1,SporTV [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63094.m3u8
+#EXTINF:-1,Studio Universal
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37043.m3u8
+#EXTINF:-1,Studio Universal FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/41511.m3u8
+#EXTINF:-1,Studio Universal FHD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/221396.m3u8
+#EXTINF:-1,Studio Universal H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62917.m3u8
+#EXTINF:-1,Studio Universal HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36904.m3u8
+#EXTINF:-1,Studio Universal HD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/221382.m3u8
+#EXTINF:-1,Studio Universal | Dual Áudio
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63228.m3u8
+#EXTINF:-1,TCM
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37037.m3u8
+#EXTINF:-1,TCM FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63645.m3u8
+#EXTINF:-1,TCM FHD H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/91497.m3u8
+#EXTINF:-1,TCM HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63644.m3u8
+#EXTINF:-1,TLC
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37036.m3u8
+#EXTINF:-1,TLC FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/61964.m3u8
+#EXTINF:-1,TLC H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62809.m3u8
+#EXTINF:-1,TLC HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36902.m3u8
+#EXTINF:-1,TLC | Dual Áudio
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63259.m3u8
+#EXTINF:-1,TNT
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37035.m3u8
+#EXTINF:-1,TNT - H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/51305.m3u8
+#EXTINF:-1,TNT [4K]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/215404.m3u8
+#EXTINF:-1,TNT FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/41507.m3u8
+#EXTINF:-1,TNT FHD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/221417.m3u8
+#EXTINF:-1,TNT HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36934.m3u8
+#EXTINF:-1,TNT HD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/221416.m3u8
+#EXTINF:-1,TNT Novelas
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37041.m3u8
+#EXTINF:-1,TNT Novelas FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/41505.m3u8
+#EXTINF:-1,TNT Novelas H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62913.m3u8
+#EXTINF:-1,TNT Novelas HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36940.m3u8
+#EXTINF:-1,TNT Novelas | Dual Áudio
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63251.m3u8
+#EXTINF:-1,TNT Series - H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/51306.m3u8
+#EXTINF:-1,TNT Séries
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37034.m3u8
+#EXTINF:-1,TNT Séries FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/41508.m3u8
+#EXTINF:-1,TNT Séries FHD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/221415.m3u8
+#EXTINF:-1,TNT Séries HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36933.m3u8
+#EXTINF:-1,TNT Séries HD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/221414.m3u8
+#EXTINF:-1,TNT | Dual Áudio
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63260.m3u8
+#EXTINF:-1,Telecine Action
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37040.m3u8
+#EXTINF:-1,Telecine Action FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38418.m3u8
+#EXTINF:-1,Telecine Action FHD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/81781.m3u8
+#EXTINF:-1,Telecine Action H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/51286.m3u8
+#EXTINF:-1,Telecine Action HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36939.m3u8
+#EXTINF:-1,Telecine Action HD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/81782.m3u8
+#EXTINF:-1,Telecine Action [4K]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/74797.m3u8
+#EXTINF:-1,Telecine Cult
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37039.m3u8
+#EXTINF:-1,Telecine Cult FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/41506.m3u8
+#EXTINF:-1,Telecine Cult FHD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/81787.m3u8
+#EXTINF:-1,Telecine Cult H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/51287.m3u8
+#EXTINF:-1,Telecine Cult H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62911.m3u8
+#EXTINF:-1,Telecine Cult HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36901.m3u8
+#EXTINF:-1,Telecine Cult HD [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/51085.m3u8
+#EXTINF:-1,Telecine Cult HD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/81788.m3u8
+#EXTINF:-1,Telecine Cult | Dual Áudio
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63265.m3u8
+#EXTINF:-1,Telecine Fun
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37005.m3u8
+#EXTINF:-1,Telecine Fun FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38417.m3u8
+#EXTINF:-1,Telecine Fun FHD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/81785.m3u8
+#EXTINF:-1,Telecine Fun H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/51301.m3u8
+#EXTINF:-1,Telecine Fun H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62909.m3u8
+#EXTINF:-1,Telecine Fun HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36938.m3u8
+#EXTINF:-1,Telecine Fun HD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/81786.m3u8
+#EXTINF:-1,Telecine Pipoca
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37038.m3u8
+#EXTINF:-1,Telecine Pipoca FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38416.m3u8
+#EXTINF:-1,Telecine Pipoca FHD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/81777.m3u8
+#EXTINF:-1,Telecine Pipoca H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/51302.m3u8
+#EXTINF:-1,Telecine Pipoca H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62908.m3u8
+#EXTINF:-1,Telecine Pipoca HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36937.m3u8
+#EXTINF:-1,Telecine Pipoca HD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/81778.m3u8
+#EXTINF:-1,Telecine Pipoca | Dual Audio
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63311.m3u8
+#EXTINF:-1,Telecine Premium
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36994.m3u8
+#EXTINF:-1,Telecine Premium FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38415.m3u8
+#EXTINF:-1,Telecine Premium FHD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/81779.m3u8
+#EXTINF:-1,Telecine Premium H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/51303.m3u8
+#EXTINF:-1,Telecine Premium H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62907.m3u8
+#EXTINF:-1,Telecine Premium HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36936.m3u8
+#EXTINF:-1,Telecine Premium HD [ALT]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/51104.m3u8
+#EXTINF:-1,Telecine Premium HD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/81780.m3u8
+#EXTINF:-1,Telecine Premium [4K]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/64378.m3u8
+#EXTINF:-1,Telecine Touch
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36995.m3u8
+#EXTINF:-1,Telecine Touch FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38414.m3u8
+#EXTINF:-1,Telecine Touch FHD H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/91496.m3u8
+#EXTINF:-1,Telecine Touch FHD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/81783.m3u8
+#EXTINF:-1,Telecine Touch H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62906.m3u8
+#EXTINF:-1,Telecine Touch HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36935.m3u8
+#EXTINF:-1,Telecine Touch HD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/81784.m3u8
+#EXTINF:-1,Telecine Touch | Dual Áudio
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63252.m3u8
+#EXTINF:-1,Universal Premiere HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/948017.m3u8
+#EXTINF:-1,Universal Premium
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/225856.m3u8
+#EXTINF:-1,Universal Reality
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/225857.m3u8
+#EXTINF:-1,Universal TV
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37027.m3u8
+#EXTINF:-1,Universal TV FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/71655.m3u8
+#EXTINF:-1,Universal TV FHD H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/91341.m3u8
+#EXTINF:-1,Universal TV FHD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/221398.m3u8
+#EXTINF:-1,Universal TV H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62896.m3u8
+#EXTINF:-1,Universal TV HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36932.m3u8
+#EXTINF:-1,Universal TV HD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/221381.m3u8
+#EXTINF:-1,Warner Channel
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36996.m3u8
+#EXTINF:-1,Warner Channel FHD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38384.m3u8
+#EXTINF:-1,Warner Channel FHD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/221421.m3u8
+#EXTINF:-1,Warner Channel H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/51308.m3u8
+#EXTINF:-1,Warner Channel H265
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62891.m3u8
+#EXTINF:-1,Warner Channel HD
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36930.m3u8
+#EXTINF:-1,Warner Channel HD [L]
+http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/221420.m3u8
