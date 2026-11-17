@@ -1869,11 +1869,11 @@ http://149.102.252.201:80/171350/B89tAq/72429.ts
 #EXTINF:-1 tvg-name="Globoplay Novelas SD" tvg-logo="http://149.102.252.201/static/logos/canais/viva.png" group-title="Canais | Variedades",Globoplay Novelas SD
 http://149.102.252.201:80/171350/B89tAq/72430.ts
 #EXTINF:-1 tvg-name="Warner Channel 4K" tvg-logo="http://149.102.252.201/static/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel 4K
-
+http://79.127.238.228:14647
 #EXTINF:-1 tvg-name="Warner Channel FHD" tvg-logo="http://149.102.252.201/static/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel FHD
 http://149.102.252.201:80/171350/B89tAq/72431.ts
 #EXTINF:-1 tvg-name="Warner Channel FHD [H265]" tvg-logo="http://149.102.252.201/static/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel FHD [H265]
-http://149.102.252.201:80/171350/B89tAq/72432.ts
+https://net11.sattvgo.com.br/WARNER_HD/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 #EXTINF:-1 tvg-name="Warner Channel FHD [LEG]" tvg-logo="http://149.102.252.201/static/logos/canais/warner.png" group-title="Canais | Legendados",Warner Channel FHD [LEG]
 http://149.102.252.201:80/171350/B89tAq/90650.ts
 #EXTINF:-1 timeshift="7" tvg-name="Warner Channel HD" tvg-logo="http://149.102.252.201/static/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel HD
