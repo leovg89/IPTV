@@ -269,7 +269,7 @@ http://149.102.252.201:80/171350/B89tAq/184554.ts
 #EXTINF:-1 tvg-name="DAZN 2 SD" tvg-logo="http://149.102.252.201/static/logos/canais/dazn.png" group-title="Canais | DAZN",DAZN 2 SD
 http://149.102.252.201:80/171350/B89tAq/184555.ts
 #EXTINF:-1 tvg-name="Discovery Channel 4K" tvg-logo="http://149.102.252.201/static/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel 4K
-http://149.102.252.201:80/171350/B89tAq/71864.ts
+http://138.204.86.4:8080/DISCOVERY_HD/index.m3u8
 #EXTINF:-1 tvg-name="Discovery Channel FHD" tvg-logo="http://149.102.252.201/static/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel FHD
 http://149.102.252.201:80/171350/B89tAq/71862.ts
 #EXTINF:-1 tvg-name="Discovery Channel FHD [H265]" tvg-logo="http://149.102.252.201/static/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel FHD [H265]
@@ -1869,7 +1869,7 @@ http://149.102.252.201:80/171350/B89tAq/72429.ts
 #EXTINF:-1 tvg-name="Globoplay Novelas SD" tvg-logo="http://149.102.252.201/static/logos/canais/viva.png" group-title="Canais | Variedades",Globoplay Novelas SD
 http://149.102.252.201:80/171350/B89tAq/72430.ts
 #EXTINF:-1 tvg-name="Warner Channel 4K" tvg-logo="http://149.102.252.201/static/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel 4K
-http://149.102.252.201:80/171350/B89tAq/90236.ts
+
 #EXTINF:-1 tvg-name="Warner Channel FHD" tvg-logo="http://149.102.252.201/static/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel FHD
 http://149.102.252.201:80/171350/B89tAq/72431.ts
 #EXTINF:-1 tvg-name="Warner Channel FHD [H265]" tvg-logo="http://149.102.252.201/static/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel FHD [H265]
